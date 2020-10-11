@@ -1,6 +1,6 @@
 # Decarbonizing-New-Yorks-Power-Sector
 
-This thesis was completed in partial fulfillment of the requirements for the degree of 
+This masters thesis was completed in partial fulfillment of the requirements for the degree of 
 Master of Engineering at the Cooper Union for the Advancement of Science and Art.
 
 Completed: Summer 2020
